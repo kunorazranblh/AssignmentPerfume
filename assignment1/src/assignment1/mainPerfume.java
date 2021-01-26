@@ -17,7 +17,7 @@ System.out.println(b.getBrand5());
 System.out.println(b.getBrand6());
 System.out.println("");
 
-System.out.println("Type of Makeup: " + f.getForWoman());
+System.out.println("Type of Perfume: " + f.getForWoman());
 System.out.println("Brand perfume for Woman: ");
 System.out.println(b.getBrand1());
 
